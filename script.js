@@ -1,4 +1,3 @@
-/*
  function validateForm(){
 
  var user = document.getElementById("userId").value;
@@ -10,7 +9,7 @@
  alert("please enter valid user and password")
  return false;
  }
- }*/
+ }
 
 function validate() {
 
